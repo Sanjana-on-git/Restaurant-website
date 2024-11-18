@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-black text-white antialiased;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-6 py-2 rounded-full font-medium transition-all duration-300;
+  }
+  
+  .btn-primary {
+    @apply bg-yellow-500 text-black hover:bg-yellow-400;
+  }
+  
+  .btn-outline {
+    @apply border-2 border-yellow-500 text-yellow-500 hover:bg-yellow-500 hover:text-black;
+  }
+}
