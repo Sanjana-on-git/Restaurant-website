@@ -9,13 +9,13 @@ const menuItems = [
       {
         name: 'Paneer Tikka',
         description: 'Marinated cottage cheese with aromatic spices, grilled to perfection',
-        price: '$16',
+        price: '₹16',
         image: 'https://www.pravarshaindustries.com/blog/wp-content/uploads/2023/09/Farm-Fresh-Delight-Paneer-Tikka-Recipe-with-Pravarsha-Dairys-Fresh-Paneer-Pravarsha-Dairy-scaled.webp'
       },
       {
         name: 'Samosa Platter',
         description: 'Crispy pastries filled with spiced potatoes and green peas, served with mint chutney',
-        price: '$14',
+        price: '₹14',
         image: 'https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&q=80&w=400&h=300'
       }
     ]
@@ -26,13 +26,13 @@ const menuItems = [
       {
         name: 'Dal Makhani',
         description: 'Creamy black lentils simmered overnight with aromatic spices and butter',
-        price: '$24',
+        price: '₹24',
         image: 'https://resize.indiatv.in/resize/newbucket/1200_-/2023/08/dal-makhni-1691167711.jpg'
       },
       {
         name: 'Malai Soya Chaap',
         description: 'Soya Malai Chaap is a soyabean dish that is cooked in a thick cream and rice flour.',
-        price: '$26',
+        price: '₹26',
         image: 'https://www.chefkunalkapur.com/wp-content/uploads/2022/06/OZZ_1035-copy-1300x730.jpg?v=1656123611'
       }
     ]
@@ -43,13 +43,13 @@ const menuItems = [
       {
         name: 'Pav Bhaji',
         description: 'A blend of spicy mashed vegetables served with butter toasted bun',
-        price: '$32',
+        price: '₹32',
         image: 'https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&q=80&w=400&h=300'
       },
       {
         name: 'Vegetable Biryani',
         description: 'Fragrant basmati rice cooked with seasonal vegetables and royal spices',
-        price: '$28',
+        price: '₹28',
         image: 'https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&q=80&w=400&h=300'
       }
     ]
